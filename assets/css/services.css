@@ -1,0 +1,17 @@
+   .p-size {
+       color: whitesmoke;
+       font-size: 18px;
+   }
+   
+   .p-size p {
+       color: whitesmoke;
+       font-size: 18px;
+   }
+   
+   h1,
+   h2 {
+       color: whitesmoke;
+       font-family: 'Racing Sans One', cursive;
+       font-size: 22px;
+       text-shadow: 2px 2px 8px #000000;
+   }

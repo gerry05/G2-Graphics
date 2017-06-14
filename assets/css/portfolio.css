@@ -1,0 +1,46 @@
+body {
+    background: url("../images/background2.png") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h2 {
+    font-family: 'Racing Sans One', cursive;
+    font-size: 22px;
+    color: whitesmoke;
+    text-shadow: 2px 2px 8px #000000;
+}
+
+.carousel-inner .item img {
+    margin: auto;
+}
+
+.webdesign-modal #preview {
+    margin-top: 15px;
+}
+
+.webdesign-modal #preview:hover {
+    margin-top: 15px;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+    cursor: pointer;
+}
+
+#preview:hover {
+    margin-top: 15px;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+    cursor: pointer;
+}
+
+.image-logo-medium {
+    height: 350px;
+    width: 100%;
+}
+
+.image-logo-small {
+    height: 167px;
+    width: 100%;
+}
